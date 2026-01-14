@@ -41,7 +41,7 @@ setup(name='pex',
           'pychromecast', 'pyasyncore',
           'pyOpenSSL', 'pefile',
 
-          'hatasm @ git+https://github.com/EntySec/HatAsm'
+          'hatasm @ git+https://github.com/EnderMinecraft/HatAsm'
       ],
       zip_safe=False
       )
